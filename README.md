@@ -1,5 +1,4 @@
-# iran-front-technology
-List of Iranian website  front-end technology
+# iran modern front-end technology
 
 |website  |      framework      |  Web Server |ssr|ui framework|
 |----------|:-------------:|------:|------:|-----:|
