@@ -21,4 +21,6 @@
 |[سرایار](https://sarayar.com/)|React|IIS|no||
 |[فندوق](https://fandogh.cloud/)|vue|nuxt|nuxt||
 |[لیارا](https://liara.ir/)|vue|nginx|yes||
+|[آلونک](https://alounak.com/)|angular|nginx|no||
+|[بیمیتو](https://bimito.com/)|React|nginx|next||
 
