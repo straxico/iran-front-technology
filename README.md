@@ -18,4 +18,4 @@
 |[توانیتو](https://tavanito.com/)|React|express|yes not perfect ||
 |[اسنپ](https://snapp.ir)|React|nginx|no||
 |[ایوند](https://snapp.ir)|React||yes||
-|[سرابار](https://sarayar.com/)|React|IIS|no||
+|[سرایار](https://sarayar.com/)|React|IIS|no||
