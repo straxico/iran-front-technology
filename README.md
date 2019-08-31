@@ -19,3 +19,5 @@
 |[اسنپ](https://snapp.ir)|React|nginx|no||
 |[ایوند](https://snapp.ir)|React||yes||
 |[سرایار](https://sarayar.com/)|React|IIS|no||
+|[فندوق](https://fandogh.cloud/)|vue|nuxt|nuxt||
+|[لیارا](https://liara.ir/)|vue|nginx|yes||
