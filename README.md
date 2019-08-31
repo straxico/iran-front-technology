@@ -23,4 +23,15 @@
 |[لیارا](https://liara.ir/)|vue|nginx|yes||
 |[آلونک](https://alounak.com/)|angular|nginx|no||
 |[بیمیتو](https://bimito.com/)|React|nginx|next||
-
+|[بامارو](https://bamaro.ir/)|vue|apache|no||
+|[بوتیک](https://botick.com/)|vue|nginx|yes||
+|[کارپینو](https://www.carpino.ir/)|vue|nginx|nuxt||
+|[ایسمینار](https://eseminar.tv/)|vue||no||
+|[هومینگ](https://homing.ir/)|React|nginx|yes||
+|[ایران رنتر](https://iranrenter.com/)|vue||yes||
+|[کلید](https://kilid.com/)|angular|nginx-express|yes||
+|[لحظه نگار](https://lahzenegar.com/)|React||no||
+|[سازیتو](https://sazito.com/)|React|express|yes||
+|[فلربو](https://flerbo.ir/)|React|express|yes||
+|[گیگتوری](https://geektori.ir/)|React|express|yes||
+|[تپسی](https://app.tap30.org/)|React|express|no||
