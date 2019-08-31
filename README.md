@@ -1,4 +1,4 @@
-# iran modern front-end technology
+#  Iranian websites that use modern front-end technology
 
 |website  |      framework      |  Web Server |ssr|ui framework|
 |----------|:-------------:|------:|------:|-----:|
