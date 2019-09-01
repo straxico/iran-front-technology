@@ -35,3 +35,4 @@
 |[فلربو](https://flerbo.ir/)|React|express|yes||
 |[گیگتوری](https://geektori.ir/)|React|express|yes||
 |[تپسی](https://app.tap30.org/)|React|express|no||
+|[پونیشا](ponisha.ir)|vue|nginx|no||
